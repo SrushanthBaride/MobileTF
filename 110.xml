@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DestImages</folder>
+	<filename>110.jpg</filename>
+	<path>D:\Mobile TF\DestImages\110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>106</ymin>
+			<xmax>506</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
